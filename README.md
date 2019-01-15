@@ -20,5 +20,3 @@
 * Rimi 9/17 => 7
 * Viavattene 4/18 => 6
 
-## Tutti gli studenti con un voto < 8 faranno una prova orale il 31/10/2018
-
