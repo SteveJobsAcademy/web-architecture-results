@@ -2,7 +2,7 @@
 
 * Ardenti 13,5/17 => 8
 * Bennardo 5/18 => 6
-* Bizzini N.C.
+* Bizzini REC => 7
 * Bonaccorso 17,2/18 => 10
 * Bonanno 16/18 => 9
 * Blasco 2,6/18 => 6
